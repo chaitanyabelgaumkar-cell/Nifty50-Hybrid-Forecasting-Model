@@ -20,8 +20,8 @@ To explore the project, you can access the following files directly:
 * [**📄 View Full Dissertation (PDF)**](Chaitanya%20Nifty%2050%20Project%20(1).pdf) - *Comprehensive research report and findings.*
 
 ### 📊 Dataset & Analysis
-* [**📊 Download Final Dataset (CSV)**](finaldone.xlsx%20-%20Sheet1.csv) - *Cleaned data used for model estimation.*
-* [**📈 Download Working Calculations**](working.xlsx%20-%20Sheet1.csv) - *Internal data preparation and Excel analysis.*
+* [**📊 Download Final Dataset (CSV)**](final_data.csv)*
+* [**📈 Download Working Calculations (CSV)**](working_calculations.csv)
 
 ## About the Author
 **Chaitanya C Belgaumkar** MBA in Finance & Business Analytics  
