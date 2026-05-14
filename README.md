@@ -17,12 +17,11 @@ This repository contains my MBA dissertation project focused on the econometric 
 To explore the project, you can access the following files directly:
 
 ### 📄 Documentation
-* [**Full Dissertation Report (PDF)**](Chaitanya%20Nifty%2050%20Project%20(1).pdf) - Comprehensive study, literature review, and conclusions.
+* [**📄 View Full Dissertation (PDF)**](Chaitanya%20Nifty%2050%20Project%20(1).pdf) - *Comprehensive research report and findings.*
 
 ### 📊 Dataset & Analysis
-* [**Final Processed Data (Main)**](finaldone.xlsx%20-%20Sheet1.csv) - The primary cleaned dataset used for model estimation.
-* [**Working Calculation Sheet**](working.xlsx%20-%20Sheet1.csv) - Internal calculations and data preparation steps.
-* [**Model Result Summaries**](finaldone.xlsx%20-%20Sheet8.csv) - Tabulated results from the EViews output.
+* [**📊 Download Final Dataset (CSV)**](finaldone.xlsx%20-%20Sheet1.csv) - *Cleaned data used for model estimation.*
+* [**📈 Download Working Calculations**](working.xlsx%20-%20Sheet1.csv) - *Internal data preparation and Excel analysis.*
 
 ## About the Author
 **Chaitanya C Belgaumkar** MBA in Finance & Business Analytics  
