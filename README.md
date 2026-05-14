@@ -21,5 +21,6 @@ This repository contains my MBA dissertation project focused on the econometric 
 ## About the Author
 **Chaitanya C Belgaumkar** MBA in Finance & Business Analytics  
 Bengaluru City University
+
 ---
 *This project was submitted as part of the final year requirement for the Master of Business Administration.*
